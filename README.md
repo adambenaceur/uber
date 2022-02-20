@@ -1,15 +1,20 @@
-# uber-clone
+# uber-clone <img src="assets/uber-picture-logo.png" width=40  >
 
+<h1>
+    Overview:
+    </h1>
 
 Uber remake using tailwind CSS, Yarn, React, GOOGLE { Maps, Direction, Distance } API
 
 <div>
-    <img src="assets/Uber-Screenshot-1.jpg" width=300 >
-    <img src="assets/Uber-Screenshot-2.jpg" width=300 >
-    <img src="assets/Uber-Screenshot-3.jpg" width=300 >
+    <img src="assets/uber-logo-white.png" width=250  >
+    <img src="assets/uber-picture-logo.png" width=220>
 </div>
 
-Dependencies: 
+
+<h1>
+    Dependencies: 
+</h1>
 
     "@react-native-community/masked-view": "^0.1.11",
     "@react-navigation/native": "^6.0.8",
@@ -41,7 +46,17 @@ Dependencies:
 
 
 
+<h1>
+    Screenshots:
+  </h1>
+    
 
+
+<div>
+    <img src="assets/Uber-Screenshot-1.jpg" width=300 >
+    <img src="assets/Uber-Screenshot-2.jpg" width=300 >
+    <img src="assets/Uber-Screenshot-3.jpg" width=300 >
+</div>
 
 
 
