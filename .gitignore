@@ -13,5 +13,5 @@ web-build/
 # macOS
 .DS_Store
 
-# env is private so you dont want it to be commited
-.env 
+#enviroment
+.env
