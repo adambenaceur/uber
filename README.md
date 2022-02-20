@@ -1,7 +1,7 @@
 # uber-clone
 
 
-Uber remake!
+Uber remake using tailwind CSS, Yarn, React, GOOGLE { Maps, Direction, Distance } API
 
 <div>
     <img src="assets/Uber-Screenshot-1.jpg" width=300 >
