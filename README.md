@@ -3,7 +3,13 @@
 
 Uber remake!
 
-Dependencies: {
+<div>
+    <img src="assets/Uber-Screenshot-1.jpg" width=300 >
+    <img src="assets/Uber-Screenshot-2.jpg" width=300 >
+    <img src="assets/Uber-Screenshot-3.jpg" width=300 >
+</div>
+
+Dependencies: 
 
     "@react-native-community/masked-view": "^0.1.11",
     "@react-navigation/native": "^6.0.8",
@@ -32,9 +38,10 @@ Dependencies: {
     "react-redux": "^7.2.6",
     "tailwind-react-native-classnames": "^1.5.1",
     "twrnc": "^3.0.1"
-}
-![](assets/Uber-Screenshot-1.jpg)
-![](assets/Uber-Screenshot-2.jpg)
-![](assets/Uber-Screenshot-3.jpg)
+
+
+
+
+
 
 
