@@ -33,9 +33,8 @@ Dependencies: {
     "tailwind-react-native-classnames": "^1.5.1",
     "twrnc": "^3.0.1"
 }
-![Uber-Screenshot-1](https://user-images.githubusercontent.com/29616144/154825229-2afde962-7569-48ce-83ee-8416f87c58ec.jpg)
-![Uber-Screenshot-2](https://user-images.githubusercontent.com/29616144/154825227-e373d82e-000d-423a-ac55-08299ab0a36f.jpg)
-![Uber-Screenshot-3](https://user-images.githubusercontent.com/29616144/154825228-fe02730a-2c43-44db-b898-fdbea3ad7af3.jpg)
-
+![](assets/Uber-Screenshot-1.jpg)
+![](assets/Uber-Screenshot-2.jpg)
+![](assets/Uber-Screenshot-3.jpg)
 
 
