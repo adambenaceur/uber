@@ -1,4 +1,4 @@
-# uber-clone <img src="assets/uber-picture-logo.png" width=40  >
+# uber-app <img src="assets/uber-picture-logo.png" width=40  >
 
 <h1>
     Overview:
